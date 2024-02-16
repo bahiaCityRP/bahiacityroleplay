@@ -83,7 +83,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #252122;
+		background: #000;
 		background-image: url("images/bg02.png");
 	}
 
@@ -152,7 +152,7 @@ input, select, textarea {
 	}
 
 	a {
-		color: #d52349;
+		color: #252122;
 		text-decoration: underline;
 	}
 
